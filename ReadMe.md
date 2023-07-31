@@ -88,7 +88,9 @@ This project is a consumer of a customer microservice that interacts with the se
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request or open an issue.
 
 
-<span style="color: blue">Next Challenge:</span>
+
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Next Challenge:**
+
 
 My next challenge is to deploy these microservices using Docker to enable seamless and scalable containerization of the application.
 
