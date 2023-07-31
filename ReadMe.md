@@ -87,7 +87,8 @@ This project is a consumer of a customer microservice that interacts with the se
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request or open an issue.
 
-<div style="color: red">**Next Challenge:**</div>
+
+<span style="color: blue">Next Challenge:</span>
 
 My next challenge is to deploy these microservices using Docker to enable seamless and scalable containerization of the application.
 
