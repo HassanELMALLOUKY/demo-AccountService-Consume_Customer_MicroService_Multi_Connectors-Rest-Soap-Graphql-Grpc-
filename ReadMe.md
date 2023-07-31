@@ -86,3 +86,15 @@ This project is a consumer of a customer microservice that interacts with the se
 **Contributing:**
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request or open an issue.
+
+**Next Challenge:**
+
+My next challenge is to deploy these microservices using Docker to enable seamless and scalable containerization of the application.
+
+For Docker deployment, I will:
+
+Create Dockerfiles for each microservice to define the container image.
+Use Docker Compose to manage the multi-container application setup.
+Configure the necessary environment variables and network settings.
+Test the application in the Docker environment to ensure it works seamlessly in containers.
+By deploying the microservices with Docker, I aim to enhance the application's portability, consistency, and isolation while simplifying the deployment process. Docker will enable easier collaboration and ensure a consistent runtime environment across different platforms.
