@@ -90,6 +90,10 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Next Challenge:**
+<span style="color: blue">Next Challenge:</span>
+<div style="color: red">Next Challenge:</div>
+
+
 
 
 My next challenge is to deploy these microservices using Docker to enable seamless and scalable containerization of the application.
